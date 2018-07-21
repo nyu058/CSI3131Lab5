@@ -1,4 +1,4 @@
-
+import java.util.Stack;
 
 public class KernelFunctions
 {
@@ -113,8 +113,9 @@ public class KernelFunctions
 	}
 
 	// LRU page Replacement algorithm
-	public static void pageReplAlgorithmLRU(int vpage, Process prc)
-	{
+	public static void pageReplAlgorithmLRU(int vpage, Process prc){
+		
+		  
 	}
 
 	public static void pageReplAlgorithmCOUNT(int vpage, Process prc)
